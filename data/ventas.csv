@@ -1,0 +1,11 @@
+fecha,vendedor,producto,cantidad,precio_unitario
+2026-02-01,Laura Gómez,Teclado mecánico,3,120000
+2026-02-01,Carlos Ruiz,Mouse inalámbrico,5,45000
+2026-02-02,Laura Gómez,Monitor 24",2,480000
+2026-02-02,Andrés Peña,Audífonos,4,89000
+2026-02-03,Carlos Ruiz,Webcam HD,6,135000
+2026-02-03,Laura Gómez,Teclado mecánico,1,120000
+2026-02-04,Andrés Peña,Monitor 24",3,480000
+2026-02-04,Carlos Ruiz,Mouse inalámbrico,8,45000
+2026-02-05,Laura Gómez,Audífonos,2,89000
+2026-02-05,Andrés Peña,Webcam HD,4,135000

@@ -1,0 +1,11 @@
+# Reportes generados
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+.DS_Store
